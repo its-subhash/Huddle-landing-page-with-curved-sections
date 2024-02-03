@@ -27,7 +27,6 @@
     box-sizing: border-box;
     color: var(--clr-ntrl-cyan);
     font-family: var(--font-pop);
-    background-color: brown;
 }
 .wrapper{
     max-width: 320px;
@@ -140,11 +139,3 @@ header a:hover{
 .illustration-text p{
     font-size: var(--fs-small);
 }
-/* .first-back{
-    position: absolute;
-    top: 100%;
-} */
-.article1{
-    background-color: blanchedalmond;
-}
-/* Bhai background me laga hi lena */

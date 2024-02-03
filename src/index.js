@@ -79,11 +79,6 @@ const IllustrationImages = ({ image, imageArea, customId }) => {
   return (
     <div style={{ gridArea: `${imageArea}` }}>
       <div className="illustration-img">
-        <img
-          src={images["bg-section-top-mobile-1.svg"]}
-          alt=""
-          className="first-back"
-        />
         <img src={image} alt="" id={customId} />
       </div>
     </div>
